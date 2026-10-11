@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Power+BI+%7C+Power+Query+%7C+Advanced+Excel;Data+Cleaning+%26+ETL+Processes;Dashboards+that+tell+a+story" alt="Typing SVG" />
 
-(https://github.com/muhammadabdulrahman12)
 
 </div>
 
