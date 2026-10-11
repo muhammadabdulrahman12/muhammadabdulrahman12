@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Power+BI+%7C+Power+Query+%7C+Advanced+Excel;Data+Cleaning+%26+ETL+Processes;Dashboards+that+tell+a+story" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadabdulrahman12&color=blue&style=flat-square)](https://github.com/muhammadabdulrahman12)
 
 </div>
 
