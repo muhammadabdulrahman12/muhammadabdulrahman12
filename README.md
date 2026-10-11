@@ -65,9 +65,9 @@ I take on data analysis, dashboard development, and data cleaning projects on:
 
 <div align="center">
 
-[![Mostaql](https://img.shields.io/badge/Mostaql-مستقل-2386C8?style=for-the-badge)](YOUR_MOSTAQL_LINK)
-[![Khamsat](https://img.shields.io/badge/Khamsat-خمسات-F5A623?style=for-the-badge)](YOUR_KHAMSAT_LINK)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
+[![Mostaql](https://img.shields.io/badge/Mostaql-مستقل-2386C8?style=for-the-badge)](https://mostaql.com/u/Muhamed_Abdu)
+[![Khamsat](https://img.shields.io/badge/Khamsat-خمسات-F5A623?style=for-the-badge)](https://khamsat.com/user/muhamed_abdu)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01260be144ad0d254f)
 
 </div>
 
@@ -77,11 +77,11 @@ I take on data analysis, dashboard development, and data cleaning projects on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Mostaql](https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge)](YOUR_MOSTAQL_LINK)
-[![Khamsat](https://img.shields.io/badge/Khamsat-F5A623?style=for-the-badge)](YOUR_KHAMSAT_LINK)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadabdulrahman/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamedabdelrahman12@gmail.com)
+[![Mostaql](https://img.shields.io/badge/Mostaql-2386C8?style=for-the-badge)](https://mostaql.com/u/Muhamed_Abdu)
+[![Khamsat](https://img.shields.io/badge/Khamsat-F5A623?style=for-the-badge)](https://khamsat.com/user/muhamed_abdu)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01260be144ad0d254f)
 
 <br/>
 
