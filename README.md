@@ -60,21 +60,6 @@ I'm a **Data Analyst** who loves transforming messy, unstructured data into clea
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
 ## 💼 Freelance Platforms
 
 I take on data analysis, dashboard development, and data cleaning projects on:
