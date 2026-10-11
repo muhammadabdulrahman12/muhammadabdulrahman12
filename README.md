@@ -27,7 +27,7 @@ I'm a **Data Analyst** who loves transforming messy, unstructured data into clea
 
 | Category | Tools & Skills |
 | :--- | :--- |
-| 📊 **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
+| 📊 **Visualization & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
 | 🔄 **Data Prep & ETL** | ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-239120?style=for-the-badge&logo=databricks&logoColor=white) |
 | 📑 **Spreadsheets** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | 🧼 **Data Quality** | ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FF6F61?style=for-the-badge&logo=databricks&logoColor=white) ![Data Quality Management](https://img.shields.io/badge/Data_Quality-4A90E2?style=for-the-badge&logo=checkmarx&logoColor=white) |
