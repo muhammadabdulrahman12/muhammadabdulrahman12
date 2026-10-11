@@ -41,7 +41,7 @@ I'm a **Data Analyst** who loves transforming messy, unstructured data into clea
 
 - **Focus:** Downtime causes, frequency & duration, line performance
 - **Tools:** Power BI · Power Query · Excel
-- 🔗 **[View Project](PROJECT_LINK_HERE)**
+- 🔗 **[View Project](https://github.com/muhammadabdulrahman12/Manufacturing-Downtime)**
 
 ### 🚕 DD Ride-Hailing Analytics
 > An end-to-end analysis of a ride-hailing business, covering orders, trips, and transactions to understand demand patterns and performance.
